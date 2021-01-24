@@ -1,0 +1,48 @@
+-kendimi tanıtma -
+
+-genel olarak fazladan kedi veya evcil hayvan sahipleri
+için olanları ele aldım-
+
+The SuperFeed Microchip Pet Feeder
+
+Feed -> besleme 
+pet feeder -> evcil hayvan besleyicisi
+
+Sorunlar: //videodaki
+
+NE İÇİN YAPILDI:
+
+- köpek kedi maması yiyor
+- bebek mamalarla oynamaya çalışıyor
+- evcil hayvanınız evde olmadığı zaman yiyecekler kuruyor
+ve ziyan oluyor
+- veya kediniz hepsini yiyor
+- kedinizin özel proteinli vitaminli maması var, 
+başkaları yiyemiyor.
+***bunlar gündelik evcil hayvan sahiplenen insan problemleri***
+
+NE YAPIYOR: 
+
+- kedi tasmasındaki mikroçipi cihaz algılıyor veya
+- RFID -> Radio Frequency Identification
+Radyo Frekanslı Tanıma 
+- gene algılayıp onlar gittiğinde *kendiliğinden* kapanıyor
+
+- kolay programlaması - bir düğme ile çalışıyor
+kaseleri var kendi - temizlemesi kolay 
+- gerekirse birden fazla alınabilir - renk seçenekleri mevcut
+
+Tailio
+
+Nesnelerin interneti: 
+aslında akıllı cihazların birbiriyle iletişime geçmesi,
+haberleşmesidir.
+küçük ev aletlerinden akıllı şehirlere kadar çokça yerde
+kullanılır. 
+yaygınlaşmasıyla beraber evcil hayvan bakımı sektöründe de
+kullanımı ve önemi oldukça arttı.
+fazladan 
+
+
+
+
